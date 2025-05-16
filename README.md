@@ -12,7 +12,7 @@ InnovaOwl é o projeto integrador desenvolvido para o curso de Programador de Si
 - 
 ## Estrutura do Projeto
 - **Banco de Dados**: Todas as tabelas e dados foram criados e manipulados no MySQL Workbench.
-- **DAL (Data Access Layer)**: Contém o arquivo `controleCursos` responsável pela conexão e manipulação dos dados no banco de dados.
+- **DAL (Data Access Layer)**: Contém o arquivo `Conexao` responsável pela conexão e manipulação dos dados no banco de dados.
 - **DTOs**: Objetos de transferência de dados com métodos construtores específicos para cada tabela.
 - **WinForms**: Interface visual do projeto, estilizada conforme o guia visual.
 - **Componentes e Classes**: Estrutura modular utilizando componentes e classes para organizar o código.
