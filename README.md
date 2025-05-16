@@ -23,4 +23,3 @@ InnovaOwl é o projeto integrador desenvolvido para o curso de Programador de Si
 - **C#**: Linguagem de programação utilizada para desenvolver a aplicação.
 - **WinForms**: Para desenvolvimento da interface visual.
 - **Visual Studio**: Ambiente de desenvolvimento integrado (IDE) utilizado para codificação e testes.
-# Como Abrir e Configurar o Projeto InnovaOwl
