@@ -9,7 +9,7 @@ InnovaOwl é o projeto integrador desenvolvido para o curso de Programador de Si
 - **Interface Visual**: Desenvolvemos a interface do usuário utilizando WinForms, estilizando conforme o guia visual do projeto.
 - **Componentes e Classes**: Utilizamos diversos componentes e classes para estruturar o projeto de forma organizada e modular.
 - **Programação Orientada a Objetos (POO)**: Aplicamos os princípios da POO para criar um código mais limpo, reutilizável e fácil de manter.
-- 
+  
 ## Estrutura do Projeto
 - **Banco de Dados**: Todas as tabelas e dados foram criados e manipulados no MySQL Workbench.
 - **DAL (Data Access Layer)**: Contém o arquivo `Conexao` responsável pela conexão e manipulação dos dados no banco de dados.
@@ -17,7 +17,7 @@ InnovaOwl é o projeto integrador desenvolvido para o curso de Programador de Si
 - **WinForms**: Interface visual do projeto, estilizada conforme o guia visual.
 - **Componentes e Classes**: Estrutura modular utilizando componentes e classes para organizar o código.
 - **POO**: Implementação dos princípios da Programação Orientada a Objetos.
-- 
+  
 ## Tecnologias Utilizadas
 - **MySQL Workbench**: Para criação e manipulação do banco de dados.
 - **C#**: Linguagem de programação utilizada para desenvolver a aplicação.
